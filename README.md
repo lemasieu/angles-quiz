@@ -1,4 +1,4 @@
-#Math Angle Quiz
+##Math Angle Quiz
 Demo: https://xn--msiu-goa8b.vn/github/angles-quiz/
 
 Math Angle Quiz is a web-based interactive quiz application for practicing angle-related problems, designed for students and teachers. The app randomly generates questions about supplementary and vertical angles, displays a dynamic geometric diagram, and allows users to input their answers. It provides instant feedback and keeps track of the user's score.

@@ -11,12 +11,14 @@ Interactive geometric diagrams drawn with p5.js.
 Input fields for both angle names and measurements.
 Instant feedback and score tracking.
 Responsive layout for both desktop and mobile devices.
-Light/Dark theme toggle.
+Light/Dark theme toggle.</br>
+
 Technologies Used:
 
 HTML, CSS, JavaScript
 p5.js for drawing diagrams
-MathJax for rendering mathematical notation
+MathJax for rendering mathematical notation</br>
+
 How to use:
 
 Open index.html in your browser.
